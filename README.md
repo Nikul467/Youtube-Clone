@@ -2,7 +2,7 @@ This is a react project called "Youtube-clone" that uses the Youtube v3 API from
 
 This project is hosted on Firebase. The link is "https://clone-daf96.firebaseapp.com/"
 
-#Screenshots:
+# Screenshots:
 
 ![image](https://github.com/user-attachments/assets/ac7b9c8b-f91d-40b7-88b6-ff1335c64bc6)
 
